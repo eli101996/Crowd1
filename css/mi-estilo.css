@@ -1,0 +1,145 @@
+body{
+    background:rgb(14, 16, 29);
+    color: white;
+}
+header{
+    margin-top: 95px;
+}
+.carousel-inner{
+    width: 100%;
+    height: 85vh;
+}
+@media screen and (max-width:800px){
+    .carousel-inner{
+        width: 100%;
+        height: 70vh;
+    }
+}
+@media screen and (max-width:700px){
+    .carousel-inner{
+        width: 100%;
+        height: 60vh;
+    }
+}
+@media screen and (max-width:600px){
+    .carousel-inner{
+        width: 100%;
+        height: 50vh;
+    }
+}
+@media screen and (max-width:500px){
+    .carousel-inner{
+        width: 100%;
+        height: 40vh;
+    }
+}
+.carousel-item{
+    height: 100%;
+    width: 100%;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size:cover;
+    background-size: cover;
+}
+.imagen{
+    background-position: center;
+    background-attachment: contain;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.imagen-paquetes{
+    background-position: center;
+    background-attachment: contain;
+    background-size: cover;
+    width: 50%;
+    height: 50%;
+}
+#particles-js{
+    background: url(slide.jpg), black;
+    background-position: center;
+    background-attachment: contain;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    /* position:absolute; */
+    /* z-index: -1; */
+}
+nav{
+    background: black;
+    color: white;
+}
+.nav2 {
+    position: fixed;
+}
+ 
+.nav2 .logo {
+    height:60px;
+}
+.logo{
+    height: 100%;
+    width: 100%;
+}
+.movil{
+    /* background-position: center;
+    background-attachment: contain;
+    background-size: cover; */
+  position:absolute;
+  height:150%;
+  width:100%;
+  /* z-index: 1; */
+}
+.imposible{
+    /* background-position: center;
+    background-attachment: contain;
+    background-size: cover; */
+  position:absolute;
+  height:75%;
+  width:60%;
+  top: 5%;
+  left : 10%;
+  /* z-index: 1; */
+}
+#info-one{
+    background:black;
+    margin-top: 10px;
+}
+.posicion {
+    position: absolute; 
+    right: 15%;
+    top: 45%; /* Cambiar bottom por top y los píxeles que necesites */
+    left: 20%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+section{
+    margin-top: 100px;
+    text-align: center;
+}
+footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background:black;
+}
+/* #testimonial {
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+} */
+
+
+
+/* header{
+    margin-top: 75px;
+}
+
+footer{
+    background: url(../img/smartphones.png);
+}
+.bc-icons-2::before{
+	content: none;
+} */
