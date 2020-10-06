@@ -34,11 +34,11 @@ header{
     }
 	.nav2 .logo {
         height:60px;
-        width: 30vh;
+        width: 20vh;
     }
     .logo{
         /* height: 100%; */
-        width: 50vh;
+        width: 40vh;
     }
 }
 .carousel-item{
