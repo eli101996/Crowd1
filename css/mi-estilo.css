@@ -37,8 +37,8 @@ header{
     width: 16vh;
 }
 nav .logo{
-    height:15vh;
-    width: 30vh;
+    height:12vh;
+    width: 24vh;
 }
 }
 .carousel-item{
@@ -83,12 +83,12 @@ nav{
     position: fixed;
 }
 .nav2 .logo {
-    height:12vh;
-    width: 24vh;
+    height:10vh;
+    width: 20vh;
 }
 nav .logo{
-    height:20vh;
-    width: 40vh;
+    height:15vh;
+    width: 30vh;
 }
 .movil{
     /* background-position: center;
