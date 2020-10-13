@@ -46,6 +46,21 @@ header{
     .img-circle{
         width: 200px;
     }
+    .resp1{
+        font-size: 4vw;
+    }
+    .resp2{
+        font-size: 3vw;
+    }
+    .resp3{
+        font-size: 5vw;
+    }
+    .resp4{
+        font-size: 3vw;
+    }
+    section{
+        margin-top: 50px;
+    }
 }
 .carousel-item{
     height: 100%;
