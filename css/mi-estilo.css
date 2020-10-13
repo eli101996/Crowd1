@@ -46,21 +46,6 @@ header{
     .img-circle{
         width: 200px;
     }
-    .resp1{
-        font-size: 4vw;
-    }
-    .resp2{
-        font-size: 3vw;
-    }
-    .resp3{
-        font-size: 5vw;
-    }
-    .resp4{
-        font-size: 3vw;
-    }
-    section{
-        margin-top: 50px;
-    }
 }
 .carousel-item{
     height: 100%;
@@ -165,7 +150,7 @@ nav .logo{
     padding-bottom: 20px;
 }
 section{
-    margin-top: 100px;
+    margin-top: 5vw;
     text-align: center;
 }
 footer{
@@ -175,17 +160,17 @@ footer{
     background:black;
 }
 .resp1{
-    font-size: 3vw;
+    font-size: 4vw;
     margin-bottom: -0.1vw;
 }
 .resp2{
-    font-size: 2vw;
+    font-size: 3vw;
 }
 .resp3{
-    font-size: 4vw;
+    font-size: 5vw;
 }
 .resp4{
-    font-size: 2vw;
+    font-size: 3vw;
 }
 .card{
     position: relative;
