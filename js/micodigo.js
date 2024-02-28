@@ -31,9 +31,9 @@ window.addEventListener('scroll', mostrarScroll);
 //     });
 // }
 
-window.addEventListener('load', function(){
-    console.log("loading");
+//window.addEventListener('load', function(){
+ //   console.log("loading");
     // $(".loader").addClass("loader-close");
-    $("#loader").removeClass("lds-spinner");
-    $("#loader").removeClass("loader");
-})
+  //  $("#loader").removeClass("lds-spinner");
+   // $("#loader").removeClass("loader");
+//})
